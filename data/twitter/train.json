@@ -1,0 +1,634 @@
+[
+ {
+  "id": "twitter-train-0",
+  "text": "SHOCKING: this image proves clock was hidden among the crowd of fire hydrant and person!",
+  "image": "imgs/train_0000.jpg",
+  "label": 1,
+  "objects": [
+   "fire hydrant",
+   "person"
+  ]
+ },
+ {
+  "id": "twitter-train-1",
+  "text": "They say this photo shows a train at the protest with the traffic light and chair.",
+  "image": "imgs/train_0001.jpg",
+  "label": 1,
+  "objects": [
+   "traffic light",
+   "car",
+   "chair"
+  ]
+ },
+ {
+  "id": "twitter-train-2",
+  "text": "SHOCKING: this image proves bench was hidden among the crowd of truck and boat!",
+  "image": "imgs/train_0002.jpg",
+  "label": 1,
+  "objects": [
+   "truck",
+   "boat"
+  ]
+ },
+ {
+  "id": "twitter-train-3",
+  "text": "Local news: clock near the traffic light as the situation develops. Image is genuine.",
+  "image": "imgs/train_0003.jpg",
+  "label": 0,
+  "objects": [
+   "clock",
+   "traffic light"
+  ]
+ },
+ {
+  "id": "twitter-train-4",
+  "text": "Breaking: photos show bench and motorcycle at the scene. Authorities confirm the report.",
+  "image": "imgs/train_0004.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "motorcycle"
+  ]
+ },
+ {
+  "id": "twitter-train-5",
+  "text": "SHOCKING: this image proves train was hidden among the crowd of laptop and potted plant!",
+  "image": "imgs/train_0005.jpg",
+  "label": 1,
+  "objects": [
+   "laptop",
+   "car",
+   "potted plant"
+  ]
+ },
+ {
+  "id": "twitter-train-6",
+  "text": "URGENT: airplane caught on camera destroying the bicycle while the bench watched.",
+  "image": "imgs/train_0006.jpg",
+  "label": 1,
+  "objects": [
+   "bicycle",
+   "person",
+   "bench"
+  ]
+ },
+ {
+  "id": "twitter-train-7",
+  "text": "URGENT: stop sign caught on camera destroying the chair while the bed watched.",
+  "image": "imgs/train_0007.jpg",
+  "label": 1,
+  "objects": [
+   "chair",
+   "car",
+   "bed"
+  ]
+ },
+ {
+  "id": "twitter-train-8",
+  "text": "They say this photo shows a truck at the protest with the bus and fire hydrant.",
+  "image": "imgs/train_0008.jpg",
+  "label": 1,
+  "objects": [
+   "bus",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "twitter-train-9",
+  "text": "The chair and the potted plant were photographed together during the event today.",
+  "image": "imgs/train_0009.jpg",
+  "label": 0,
+  "objects": [
+   "chair",
+   "laptop",
+   "potted plant"
+  ]
+ },
+ {
+  "id": "twitter-train-10",
+  "text": "Breaking: photos show fire hydrant and clock at the scene. Authorities confirm the report.",
+  "image": "imgs/train_0010.jpg",
+  "label": 0,
+  "objects": [
+   "fire hydrant",
+   "train",
+   "clock"
+  ]
+ },
+ {
+  "id": "twitter-train-11",
+  "text": "Witnesses posted this image of a dining table next to a car. Verified on the ground.",
+  "image": "imgs/train_0011.jpg",
+  "label": 0,
+  "objects": [
+   "dining table",
+   "tv monitor",
+   "car"
+  ]
+ },
+ {
+  "id": "twitter-train-12",
+  "text": "Local news: car near the bicycle as the situation develops. Image is genuine.",
+  "image": "imgs/train_0012.jpg",
+  "label": 0,
+  "objects": [
+   "car",
+   "bench",
+   "bicycle"
+  ]
+ },
+ {
+  "id": "twitter-train-13",
+  "text": "The car and the bed were photographed together during the event today.",
+  "image": "imgs/train_0013.jpg",
+  "label": 0,
+  "objects": [
+   "car",
+   "bed"
+  ]
+ },
+ {
+  "id": "twitter-train-14",
+  "text": "The person and the fire hydrant were photographed together during the event today.",
+  "image": "imgs/train_0014.jpg",
+  "label": 0,
+  "objects": [
+   "person",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "twitter-train-15",
+  "text": "They say this photo shows a truck at the protest with the bench and bus.",
+  "image": "imgs/train_0015.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "train",
+   "bus"
+  ]
+ },
+ {
+  "id": "twitter-train-16",
+  "text": "Viral post claims a bus attacked people beside the person. No source given.",
+  "image": "imgs/train_0016.jpg",
+  "label": 1,
+  "objects": [
+   "person",
+   "train"
+  ]
+ },
+ {
+  "id": "twitter-train-17",
+  "text": "Breaking: photos show bed and dining table at the scene. Authorities confirm the report.",
+  "image": "imgs/train_0017.jpg",
+  "label": 0,
+  "objects": [
+   "bed",
+   "bicycle",
+   "dining table"
+  ]
+ },
+ {
+  "id": "twitter-train-18",
+  "text": "SHOCKING: this image proves tv monitor was hidden among the crowd of dining table and airplane!",
+  "image": "imgs/train_0018.jpg",
+  "label": 1,
+  "objects": [
+   "dining table",
+   "airplane"
+  ]
+ },
+ {
+  "id": "twitter-train-19",
+  "text": "They say this photo shows a stop sign at the protest with the train and bed.",
+  "image": "imgs/train_0019.jpg",
+  "label": 1,
+  "objects": [
+   "train",
+   "airplane",
+   "bed"
+  ]
+ },
+ {
+  "id": "twitter-train-20",
+  "text": "They say this photo shows a airplane at the protest with the bench and potted plant.",
+  "image": "imgs/train_0020.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "potted plant"
+  ]
+ },
+ {
+  "id": "twitter-train-21",
+  "text": "They say this photo shows a tv monitor at the protest with the car and dining table.",
+  "image": "imgs/train_0021.jpg",
+  "label": 1,
+  "objects": [
+   "car",
+   "clock",
+   "dining table"
+  ]
+ },
+ {
+  "id": "twitter-train-22",
+  "text": "Breaking: photos show boat and person at the scene. Authorities confirm the report.",
+  "image": "imgs/train_0022.jpg",
+  "label": 0,
+  "objects": [
+   "boat",
+   "clock",
+   "person"
+  ]
+ },
+ {
+  "id": "twitter-train-23",
+  "text": "SHOCKING: this image proves chair was hidden among the crowd of traffic light and clock!",
+  "image": "imgs/train_0023.jpg",
+  "label": 1,
+  "objects": [
+   "traffic light",
+   "bed",
+   "clock"
+  ]
+ },
+ {
+  "id": "twitter-train-24",
+  "text": "Breaking: photos show bench and stop sign at the scene. Authorities confirm the report.",
+  "image": "imgs/train_0024.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "tv monitor",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "twitter-train-25",
+  "text": "SHOCKING: this image proves bed was hidden among the crowd of clock and laptop!",
+  "image": "imgs/train_0025.jpg",
+  "label": 1,
+  "objects": [
+   "clock",
+   "car",
+   "laptop"
+  ]
+ },
+ {
+  "id": "twitter-train-26",
+  "text": "The potted plant and the bench were photographed together during the event today.",
+  "image": "imgs/train_0026.jpg",
+  "label": 0,
+  "objects": [
+   "potted plant",
+   "laptop",
+   "bench"
+  ]
+ },
+ {
+  "id": "twitter-train-27",
+  "text": "Viral post claims a fire hydrant attacked people beside the airplane. No source given.",
+  "image": "imgs/train_0027.jpg",
+  "label": 1,
+  "objects": [
+   "airplane",
+   "tv monitor"
+  ]
+ },
+ {
+  "id": "twitter-train-28",
+  "text": "Local news: boat near the dining table as the situation develops. Image is genuine.",
+  "image": "imgs/train_0028.jpg",
+  "label": 0,
+  "objects": [
+   "boat",
+   "bus",
+   "dining table"
+  ]
+ },
+ {
+  "id": "twitter-train-29",
+  "text": "They say this photo shows a dining table at the protest with the bed and airplane.",
+  "image": "imgs/train_0029.jpg",
+  "label": 1,
+  "objects": [
+   "bed",
+   "car",
+   "airplane"
+  ]
+ },
+ {
+  "id": "twitter-train-30",
+  "text": "They say this photo shows a airplane at the protest with the potted plant and laptop.",
+  "image": "imgs/train_0030.jpg",
+  "label": 1,
+  "objects": [
+   "potted plant",
+   "bicycle",
+   "laptop"
+  ]
+ },
+ {
+  "id": "twitter-train-31",
+  "text": "Local news: tv near the truck as the situation develops. Image is genuine.",
+  "image": "imgs/train_0031.jpg",
+  "label": 0,
+  "objects": [
+   "tv",
+   "laptop",
+   "truck"
+  ]
+ },
+ {
+  "id": "twitter-train-32",
+  "text": "Local news: laptop near the dining table as the situation develops. Image is genuine.",
+  "image": "imgs/train_0032.jpg",
+  "label": 0,
+  "objects": [
+   "laptop",
+   "dining table"
+  ]
+ },
+ {
+  "id": "twitter-train-33",
+  "text": "Breaking: photos show bicycle and fire hydrant at the scene. Authorities confirm the report.",
+  "image": "imgs/train_0033.jpg",
+  "label": 0,
+  "objects": [
+   "bicycle",
+   "tv",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "twitter-train-34",
+  "text": "The potted plant and the laptop were photographed together during the event today.",
+  "image": "imgs/train_0034.jpg",
+  "label": 0,
+  "objects": [
+   "potted plant",
+   "motorcycle",
+   "laptop"
+  ]
+ },
+ {
+  "id": "twitter-train-35",
+  "text": "URGENT: boat caught on camera destroying the tv while the truck watched.",
+  "image": "imgs/train_0035.jpg",
+  "label": 1,
+  "objects": [
+   "tv",
+   "train",
+   "truck"
+  ]
+ },
+ {
+  "id": "twitter-train-36",
+  "text": "Local news: chair near the fire hydrant as the situation develops. Image is genuine.",
+  "image": "imgs/train_0036.jpg",
+  "label": 0,
+  "objects": [
+   "chair",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "twitter-train-37",
+  "text": "The bench and the dining table were photographed together during the event today.",
+  "image": "imgs/train_0037.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "dining table"
+  ]
+ },
+ {
+  "id": "twitter-train-38",
+  "text": "They say this photo shows a bus at the protest with the person and airplane.",
+  "image": "imgs/train_0038.jpg",
+  "label": 1,
+  "objects": [
+   "person",
+   "train",
+   "airplane"
+  ]
+ },
+ {
+  "id": "twitter-train-39",
+  "text": "SHOCKING: this image proves airplane was hidden among the crowd of motorcycle and traffic light!",
+  "image": "imgs/train_0039.jpg",
+  "label": 1,
+  "objects": [
+   "motorcycle",
+   "bus",
+   "traffic light"
+  ]
+ },
+ {
+  "id": "twitter-train-40",
+  "text": "Breaking: photos show bench and bicycle at the scene. Authorities confirm the report.",
+  "image": "imgs/train_0040.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "bicycle"
+  ]
+ },
+ {
+  "id": "twitter-train-41",
+  "text": "Viral post claims a bus attacked people beside the chair. No source given.",
+  "image": "imgs/train_0041.jpg",
+  "label": 1,
+  "objects": [
+   "chair",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "twitter-train-42",
+  "text": "URGENT: fire hydrant caught on camera destroying the dining table while the motorcycle watched.",
+  "image": "imgs/train_0042.jpg",
+  "label": 1,
+  "objects": [
+   "dining table",
+   "motorcycle"
+  ]
+ },
+ {
+  "id": "twitter-train-43",
+  "text": "Local news: laptop near the stop sign as the situation develops. Image is genuine.",
+  "image": "imgs/train_0043.jpg",
+  "label": 0,
+  "objects": [
+   "laptop",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "twitter-train-44",
+  "text": "Witnesses posted this image of a car next to a tv. Verified on the ground.",
+  "image": "imgs/train_0044.jpg",
+  "label": 0,
+  "objects": [
+   "car",
+   "fire hydrant",
+   "tv"
+  ]
+ },
+ {
+  "id": "twitter-train-45",
+  "text": "Viral post claims a car attacked people beside the bench. No source given.",
+  "image": "imgs/train_0045.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "tv",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "twitter-train-46",
+  "text": "URGENT: traffic light caught on camera destroying the bus while the truck watched.",
+  "image": "imgs/train_0046.jpg",
+  "label": 1,
+  "objects": [
+   "bus",
+   "truck"
+  ]
+ },
+ {
+  "id": "twitter-train-47",
+  "text": "Viral post claims a person attacked people beside the train. No source given.",
+  "image": "imgs/train_0047.jpg",
+  "label": 1,
+  "objects": [
+   "train",
+   "bed"
+  ]
+ },
+ {
+  "id": "twitter-train-48",
+  "text": "SHOCKING: this image proves airplane was hidden among the crowd of bed and bus!",
+  "image": "imgs/train_0048.jpg",
+  "label": 1,
+  "objects": [
+   "bed",
+   "bicycle",
+   "bus"
+  ]
+ },
+ {
+  "id": "twitter-train-49",
+  "text": "SHOCKING: this image proves person was hidden among the crowd of bench and stop sign!",
+  "image": "imgs/train_0049.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "twitter-train-50",
+  "text": "The car and the clock were photographed together during the event today.",
+  "image": "imgs/train_0050.jpg",
+  "label": 0,
+  "objects": [
+   "car",
+   "clock"
+  ]
+ },
+ {
+  "id": "twitter-train-51",
+  "text": "URGENT: car caught on camera destroying the tv while the traffic light watched.",
+  "image": "imgs/train_0051.jpg",
+  "label": 1,
+  "objects": [
+   "tv",
+   "stop sign",
+   "traffic light"
+  ]
+ },
+ {
+  "id": "twitter-train-52",
+  "text": "Witnesses posted this image of a bicycle next to a truck. Verified on the ground.",
+  "image": "imgs/train_0052.jpg",
+  "label": 0,
+  "objects": [
+   "bicycle",
+   "truck"
+  ]
+ },
+ {
+  "id": "twitter-train-53",
+  "text": "URGENT: motorcycle caught on camera destroying the bicycle while the fire hydrant watched.",
+  "image": "imgs/train_0053.jpg",
+  "label": 1,
+  "objects": [
+   "bicycle",
+   "airplane",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "twitter-train-54",
+  "text": "Local news: motorcycle near the truck as the situation develops. Image is genuine.",
+  "image": "imgs/train_0054.jpg",
+  "label": 0,
+  "objects": [
+   "motorcycle",
+   "truck"
+  ]
+ },
+ {
+  "id": "twitter-train-55",
+  "text": "Witnesses posted this image of a tv monitor next to a stop sign. Verified on the ground.",
+  "image": "imgs/train_0055.jpg",
+  "label": 0,
+  "objects": [
+   "tv monitor",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "twitter-train-56",
+  "text": "Viral post claims a car attacked people beside the bench. No source given.",
+  "image": "imgs/train_0056.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "twitter-train-57",
+  "text": "SHOCKING: this image proves stop sign was hidden among the crowd of laptop and clock!",
+  "image": "imgs/train_0057.jpg",
+  "label": 1,
+  "objects": [
+   "laptop",
+   "clock"
+  ]
+ },
+ {
+  "id": "twitter-train-58",
+  "text": "SHOCKING: this image proves motorcycle was hidden among the crowd of bench and chair!",
+  "image": "imgs/train_0058.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "chair"
+  ]
+ },
+ {
+  "id": "twitter-train-59",
+  "text": "Local news: chair near the bus as the situation develops. Image is genuine.",
+  "image": "imgs/train_0059.jpg",
+  "label": 0,
+  "objects": [
+   "chair",
+   "car",
+   "bus"
+  ]
+ }
+]

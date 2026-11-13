@@ -1,0 +1,32 @@
+# CMA-VRP reproduction. Verified on Python 3.10.10 (the repo's 3.14 venv has no wheels
+# for torch). The paper's setup (Sec.4) assumes a multi-GPU node; see CMAVRP/README.md
+# for what actually runs on a 4 GB GTX 1650.
+#
+# torch/torchvision: install the build matching your hardware, e.g.
+#   CPU only      pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#   CUDA 12.x     pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+torch>=2.0
+torchvision>=0.15
+# transformers 5.x routes DETR's conv backbone through timm, so timm is required, not
+# optional, whenever detector='facebook/detr-resnet-50'
+transformers>=4.40
+timm>=1.0
+accelerate
+numpy
+scipy
+scikit-learn
+matplotlib
+tqdm
+pillow
+tensorboardX
+spacy>=3.7
+# spaCy pipeline used for dependency parsing [S4]
+#   python -m spacy download en_core_web_trf      # paper setting (transformer, slow on CPU)
+#   python -m spacy download en_core_web_sm       # CPU-friendly fallback
+# Optional, only needed when the corresponding backend is enabled in configs:
+#   easyocr>=1.7            # ocr_backend='easyocr'  (Rosetta in the paper is not public)
+
+# Versions used for the verified CPU smoke test:
+#   torch 2.14.1+cpu  torchvision 0.29.2+cpu  transformers 5.20.2  timm 1.0.31
+#   scikit-learn 1.7.2  spacy 3.8.18  numpy 2.2.6  tensorboardX 2.6.5
+#   pillow 12.3.0  matplotlib 3.10.9

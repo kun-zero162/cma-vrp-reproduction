@@ -1,0 +1,170 @@
+[
+ {
+  "id": "twitter-test-0",
+  "text": "Breaking: photos show dining table and traffic light at the scene. Authorities confirm the report.",
+  "image": "imgs/test_0000.jpg",
+  "label": 0,
+  "objects": [
+   "dining table",
+   "laptop",
+   "traffic light"
+  ]
+ },
+ {
+  "id": "twitter-test-1",
+  "text": "URGENT: bench caught on camera destroying the train while the tv watched.",
+  "image": "imgs/test_0001.jpg",
+  "label": 1,
+  "objects": [
+   "train",
+   "tv"
+  ]
+ },
+ {
+  "id": "twitter-test-2",
+  "text": "Local news: airplane near the bus as the situation develops. Image is genuine.",
+  "image": "imgs/test_0002.jpg",
+  "label": 0,
+  "objects": [
+   "airplane",
+   "bus"
+  ]
+ },
+ {
+  "id": "twitter-test-3",
+  "text": "Breaking: photos show dining table and stop sign at the scene. Authorities confirm the report.",
+  "image": "imgs/test_0003.jpg",
+  "label": 0,
+  "objects": [
+   "dining table",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "twitter-test-4",
+  "text": "Breaking: photos show airplane and motorcycle at the scene. Authorities confirm the report.",
+  "image": "imgs/test_0004.jpg",
+  "label": 0,
+  "objects": [
+   "airplane",
+   "bench",
+   "motorcycle"
+  ]
+ },
+ {
+  "id": "twitter-test-5",
+  "text": "Local news: bed near the laptop as the situation develops. Image is genuine.",
+  "image": "imgs/test_0005.jpg",
+  "label": 0,
+  "objects": [
+   "bed",
+   "bus",
+   "laptop"
+  ]
+ },
+ {
+  "id": "twitter-test-6",
+  "text": "The boat and the laptop were photographed together during the event today.",
+  "image": "imgs/test_0006.jpg",
+  "label": 0,
+  "objects": [
+   "boat",
+   "laptop"
+  ]
+ },
+ {
+  "id": "twitter-test-7",
+  "text": "The tv monitor and the chair were photographed together during the event today.",
+  "image": "imgs/test_0007.jpg",
+  "label": 0,
+  "objects": [
+   "tv monitor",
+   "chair"
+  ]
+ },
+ {
+  "id": "twitter-test-8",
+  "text": "Viral post claims a tv monitor attacked people beside the airplane. No source given.",
+  "image": "imgs/test_0008.jpg",
+  "label": 1,
+  "objects": [
+   "airplane",
+   "train",
+   "car"
+  ]
+ },
+ {
+  "id": "twitter-test-9",
+  "text": "Local news: laptop near the bicycle as the situation develops. Image is genuine.",
+  "image": "imgs/test_0009.jpg",
+  "label": 0,
+  "objects": [
+   "laptop",
+   "bicycle"
+  ]
+ },
+ {
+  "id": "twitter-test-10",
+  "text": "SHOCKING: this image proves train was hidden among the crowd of stop sign and bed!",
+  "image": "imgs/test_0010.jpg",
+  "label": 1,
+  "objects": [
+   "stop sign",
+   "bed"
+  ]
+ },
+ {
+  "id": "twitter-test-11",
+  "text": "URGENT: traffic light caught on camera destroying the potted plant while the airplane watched.",
+  "image": "imgs/test_0011.jpg",
+  "label": 1,
+  "objects": [
+   "potted plant",
+   "motorcycle",
+   "airplane"
+  ]
+ },
+ {
+  "id": "twitter-test-12",
+  "text": "Local news: potted plant near the train as the situation develops. Image is genuine.",
+  "image": "imgs/test_0012.jpg",
+  "label": 0,
+  "objects": [
+   "potted plant",
+   "dining table",
+   "train"
+  ]
+ },
+ {
+  "id": "twitter-test-13",
+  "text": "The bench and the clock were photographed together during the event today.",
+  "image": "imgs/test_0013.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "clock"
+  ]
+ },
+ {
+  "id": "twitter-test-14",
+  "text": "Viral post claims a bed attacked people beside the chair. No source given.",
+  "image": "imgs/test_0014.jpg",
+  "label": 1,
+  "objects": [
+   "chair",
+   "laptop",
+   "clock"
+  ]
+ },
+ {
+  "id": "twitter-test-15",
+  "text": "SHOCKING: this image proves stop sign was hidden among the crowd of motorcycle and bus!",
+  "image": "imgs/test_0015.jpg",
+  "label": 1,
+  "objects": [
+   "motorcycle",
+   "bench",
+   "bus"
+  ]
+ }
+]

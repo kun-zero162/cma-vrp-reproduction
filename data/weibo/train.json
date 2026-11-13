@@ -1,0 +1,634 @@
+[
+ {
+  "id": "weibo-train-0",
+  "text": "震惊！这张图片证明 时钟 被隐藏在 消防栓 和 人 的人群中！",
+  "image": "imgs/train_0000.jpg",
+  "label": 1,
+  "objects": [
+   "fire hydrant",
+   "person"
+  ]
+ },
+ {
+  "id": "weibo-train-1",
+  "text": "他们说这张照片显示抗议现场有 火车，旁边是 红绿灯 和 椅子。",
+  "image": "imgs/train_0001.jpg",
+  "label": 1,
+  "objects": [
+   "traffic light",
+   "car",
+   "chair"
+  ]
+ },
+ {
+  "id": "weibo-train-2",
+  "text": "震惊！这张图片证明 长凳 被隐藏在 卡车 和 船 的人群中！",
+  "image": "imgs/train_0002.jpg",
+  "label": 1,
+  "objects": [
+   "truck",
+   "boat"
+  ]
+ },
+ {
+  "id": "weibo-train-3",
+  "text": "本地媒体报道：时钟 在 红绿灯 附近出现，现场图片真实。",
+  "image": "imgs/train_0003.jpg",
+  "label": 0,
+  "objects": [
+   "clock",
+   "traffic light"
+  ]
+ },
+ {
+  "id": "weibo-train-4",
+  "text": "现场拍照显示 长凳 和 摩托车 出现在事发地，消息已得到证实。",
+  "image": "imgs/train_0004.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "motorcycle"
+  ]
+ },
+ {
+  "id": "weibo-train-5",
+  "text": "震惊！这张图片证明 火车 被隐藏在 笔记本电脑 和 盆栽 的人群中！",
+  "image": "imgs/train_0005.jpg",
+  "label": 1,
+  "objects": [
+   "laptop",
+   "car",
+   "potted plant"
+  ]
+ },
+ {
+  "id": "weibo-train-6",
+  "text": "紧急：飞机 被拍到正在破坏 自行车，而 长凳 在旁边看着。",
+  "image": "imgs/train_0006.jpg",
+  "label": 1,
+  "objects": [
+   "bicycle",
+   "person",
+   "bench"
+  ]
+ },
+ {
+  "id": "weibo-train-7",
+  "text": "紧急：停车标志 被拍到正在破坏 椅子，而 床 在旁边看着。",
+  "image": "imgs/train_0007.jpg",
+  "label": 1,
+  "objects": [
+   "chair",
+   "car",
+   "bed"
+  ]
+ },
+ {
+  "id": "weibo-train-8",
+  "text": "他们说这张照片显示抗议现场有 卡车，旁边是 公共汽车 和 消防栓。",
+  "image": "imgs/train_0008.jpg",
+  "label": 1,
+  "objects": [
+   "bus",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "weibo-train-9",
+  "text": "今日事件中，椅子 与 盆栽 被一同拍到，图片属实。",
+  "image": "imgs/train_0009.jpg",
+  "label": 0,
+  "objects": [
+   "chair",
+   "laptop",
+   "potted plant"
+  ]
+ },
+ {
+  "id": "weibo-train-10",
+  "text": "现场拍照显示 消防栓 和 时钟 出现在事发地，消息已得到证实。",
+  "image": "imgs/train_0010.jpg",
+  "label": 0,
+  "objects": [
+   "fire hydrant",
+   "train",
+   "clock"
+  ]
+ },
+ {
+  "id": "weibo-train-11",
+  "text": "目击者发布了这张 餐桌 与 汽车 相隔的图片，来源可靠。",
+  "image": "imgs/train_0011.jpg",
+  "label": 0,
+  "objects": [
+   "dining table",
+   "tv monitor",
+   "car"
+  ]
+ },
+ {
+  "id": "weibo-train-12",
+  "text": "本地媒体报道：汽车 在 自行车 附近出现，现场图片真实。",
+  "image": "imgs/train_0012.jpg",
+  "label": 0,
+  "objects": [
+   "car",
+   "bench",
+   "bicycle"
+  ]
+ },
+ {
+  "id": "weibo-train-13",
+  "text": "今日事件中，汽车 与 床 被一同拍到，图片属实。",
+  "image": "imgs/train_0013.jpg",
+  "label": 0,
+  "objects": [
+   "car",
+   "bed"
+  ]
+ },
+ {
+  "id": "weibo-train-14",
+  "text": "今日事件中，人 与 消防栓 被一同拍到，图片属实。",
+  "image": "imgs/train_0014.jpg",
+  "label": 0,
+  "objects": [
+   "person",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "weibo-train-15",
+  "text": "他们说这张照片显示抗议现场有 卡车，旁边是 长凳 和 公共汽车。",
+  "image": "imgs/train_0015.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "train",
+   "bus"
+  ]
+ },
+ {
+  "id": "weibo-train-16",
+  "text": "网传视频称 公共汽车 袭击了 人 旁边的人，没有消息来源。",
+  "image": "imgs/train_0016.jpg",
+  "label": 1,
+  "objects": [
+   "person",
+   "train"
+  ]
+ },
+ {
+  "id": "weibo-train-17",
+  "text": "现场拍照显示 床 和 餐桌 出现在事发地，消息已得到证实。",
+  "image": "imgs/train_0017.jpg",
+  "label": 0,
+  "objects": [
+   "bed",
+   "bicycle",
+   "dining table"
+  ]
+ },
+ {
+  "id": "weibo-train-18",
+  "text": "震惊！这张图片证明 tv monitor 被隐藏在 餐桌 和 飞机 的人群中！",
+  "image": "imgs/train_0018.jpg",
+  "label": 1,
+  "objects": [
+   "dining table",
+   "airplane"
+  ]
+ },
+ {
+  "id": "weibo-train-19",
+  "text": "他们说这张照片显示抗议现场有 停车标志，旁边是 火车 和 床。",
+  "image": "imgs/train_0019.jpg",
+  "label": 1,
+  "objects": [
+   "train",
+   "airplane",
+   "bed"
+  ]
+ },
+ {
+  "id": "weibo-train-20",
+  "text": "他们说这张照片显示抗议现场有 飞机，旁边是 长凳 和 盆栽。",
+  "image": "imgs/train_0020.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "potted plant"
+  ]
+ },
+ {
+  "id": "weibo-train-21",
+  "text": "他们说这张照片显示抗议现场有 tv monitor，旁边是 汽车 和 餐桌。",
+  "image": "imgs/train_0021.jpg",
+  "label": 1,
+  "objects": [
+   "car",
+   "clock",
+   "dining table"
+  ]
+ },
+ {
+  "id": "weibo-train-22",
+  "text": "现场拍照显示 船 和 人 出现在事发地，消息已得到证实。",
+  "image": "imgs/train_0022.jpg",
+  "label": 0,
+  "objects": [
+   "boat",
+   "clock",
+   "person"
+  ]
+ },
+ {
+  "id": "weibo-train-23",
+  "text": "震惊！这张图片证明 椅子 被隐藏在 红绿灯 和 时钟 的人群中！",
+  "image": "imgs/train_0023.jpg",
+  "label": 1,
+  "objects": [
+   "traffic light",
+   "bed",
+   "clock"
+  ]
+ },
+ {
+  "id": "weibo-train-24",
+  "text": "现场拍照显示 长凳 和 停车标志 出现在事发地，消息已得到证实。",
+  "image": "imgs/train_0024.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "tv monitor",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "weibo-train-25",
+  "text": "震惊！这张图片证明 床 被隐藏在 时钟 和 笔记本电脑 的人群中！",
+  "image": "imgs/train_0025.jpg",
+  "label": 1,
+  "objects": [
+   "clock",
+   "car",
+   "laptop"
+  ]
+ },
+ {
+  "id": "weibo-train-26",
+  "text": "今日事件中，盆栽 与 长凳 被一同拍到，图片属实。",
+  "image": "imgs/train_0026.jpg",
+  "label": 0,
+  "objects": [
+   "potted plant",
+   "laptop",
+   "bench"
+  ]
+ },
+ {
+  "id": "weibo-train-27",
+  "text": "网传视频称 消防栓 袭击了 飞机 旁边的人，没有消息来源。",
+  "image": "imgs/train_0027.jpg",
+  "label": 1,
+  "objects": [
+   "airplane",
+   "tv monitor"
+  ]
+ },
+ {
+  "id": "weibo-train-28",
+  "text": "本地媒体报道：船 在 餐桌 附近出现，现场图片真实。",
+  "image": "imgs/train_0028.jpg",
+  "label": 0,
+  "objects": [
+   "boat",
+   "bus",
+   "dining table"
+  ]
+ },
+ {
+  "id": "weibo-train-29",
+  "text": "他们说这张照片显示抗议现场有 餐桌，旁边是 床 和 飞机。",
+  "image": "imgs/train_0029.jpg",
+  "label": 1,
+  "objects": [
+   "bed",
+   "car",
+   "airplane"
+  ]
+ },
+ {
+  "id": "weibo-train-30",
+  "text": "他们说这张照片显示抗议现场有 飞机，旁边是 盆栽 和 笔记本电脑。",
+  "image": "imgs/train_0030.jpg",
+  "label": 1,
+  "objects": [
+   "potted plant",
+   "bicycle",
+   "laptop"
+  ]
+ },
+ {
+  "id": "weibo-train-31",
+  "text": "本地媒体报道：电视机 在 卡车 附近出现，现场图片真实。",
+  "image": "imgs/train_0031.jpg",
+  "label": 0,
+  "objects": [
+   "tv",
+   "laptop",
+   "truck"
+  ]
+ },
+ {
+  "id": "weibo-train-32",
+  "text": "本地媒体报道：笔记本电脑 在 餐桌 附近出现，现场图片真实。",
+  "image": "imgs/train_0032.jpg",
+  "label": 0,
+  "objects": [
+   "laptop",
+   "dining table"
+  ]
+ },
+ {
+  "id": "weibo-train-33",
+  "text": "现场拍照显示 自行车 和 消防栓 出现在事发地，消息已得到证实。",
+  "image": "imgs/train_0033.jpg",
+  "label": 0,
+  "objects": [
+   "bicycle",
+   "tv",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "weibo-train-34",
+  "text": "今日事件中，盆栽 与 笔记本电脑 被一同拍到，图片属实。",
+  "image": "imgs/train_0034.jpg",
+  "label": 0,
+  "objects": [
+   "potted plant",
+   "motorcycle",
+   "laptop"
+  ]
+ },
+ {
+  "id": "weibo-train-35",
+  "text": "紧急：船 被拍到正在破坏 电视机，而 卡车 在旁边看着。",
+  "image": "imgs/train_0035.jpg",
+  "label": 1,
+  "objects": [
+   "tv",
+   "train",
+   "truck"
+  ]
+ },
+ {
+  "id": "weibo-train-36",
+  "text": "本地媒体报道：椅子 在 消防栓 附近出现，现场图片真实。",
+  "image": "imgs/train_0036.jpg",
+  "label": 0,
+  "objects": [
+   "chair",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "weibo-train-37",
+  "text": "今日事件中，长凳 与 餐桌 被一同拍到，图片属实。",
+  "image": "imgs/train_0037.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "dining table"
+  ]
+ },
+ {
+  "id": "weibo-train-38",
+  "text": "他们说这张照片显示抗议现场有 公共汽车，旁边是 人 和 飞机。",
+  "image": "imgs/train_0038.jpg",
+  "label": 1,
+  "objects": [
+   "person",
+   "train",
+   "airplane"
+  ]
+ },
+ {
+  "id": "weibo-train-39",
+  "text": "震惊！这张图片证明 飞机 被隐藏在 摩托车 和 红绿灯 的人群中！",
+  "image": "imgs/train_0039.jpg",
+  "label": 1,
+  "objects": [
+   "motorcycle",
+   "bus",
+   "traffic light"
+  ]
+ },
+ {
+  "id": "weibo-train-40",
+  "text": "现场拍照显示 长凳 和 自行车 出现在事发地，消息已得到证实。",
+  "image": "imgs/train_0040.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "bicycle"
+  ]
+ },
+ {
+  "id": "weibo-train-41",
+  "text": "网传视频称 公共汽车 袭击了 椅子 旁边的人，没有消息来源。",
+  "image": "imgs/train_0041.jpg",
+  "label": 1,
+  "objects": [
+   "chair",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "weibo-train-42",
+  "text": "紧急：消防栓 被拍到正在破坏 餐桌，而 摩托车 在旁边看着。",
+  "image": "imgs/train_0042.jpg",
+  "label": 1,
+  "objects": [
+   "dining table",
+   "motorcycle"
+  ]
+ },
+ {
+  "id": "weibo-train-43",
+  "text": "本地媒体报道：笔记本电脑 在 停车标志 附近出现，现场图片真实。",
+  "image": "imgs/train_0043.jpg",
+  "label": 0,
+  "objects": [
+   "laptop",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "weibo-train-44",
+  "text": "目击者发布了这张 汽车 与 电视机 相隔的图片，来源可靠。",
+  "image": "imgs/train_0044.jpg",
+  "label": 0,
+  "objects": [
+   "car",
+   "fire hydrant",
+   "tv"
+  ]
+ },
+ {
+  "id": "weibo-train-45",
+  "text": "网传视频称 汽车 袭击了 长凳 旁边的人，没有消息来源。",
+  "image": "imgs/train_0045.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "tv",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "weibo-train-46",
+  "text": "紧急：红绿灯 被拍到正在破坏 公共汽车，而 卡车 在旁边看着。",
+  "image": "imgs/train_0046.jpg",
+  "label": 1,
+  "objects": [
+   "bus",
+   "truck"
+  ]
+ },
+ {
+  "id": "weibo-train-47",
+  "text": "网传视频称 人 袭击了 火车 旁边的人，没有消息来源。",
+  "image": "imgs/train_0047.jpg",
+  "label": 1,
+  "objects": [
+   "train",
+   "bed"
+  ]
+ },
+ {
+  "id": "weibo-train-48",
+  "text": "震惊！这张图片证明 飞机 被隐藏在 床 和 公共汽车 的人群中！",
+  "image": "imgs/train_0048.jpg",
+  "label": 1,
+  "objects": [
+   "bed",
+   "bicycle",
+   "bus"
+  ]
+ },
+ {
+  "id": "weibo-train-49",
+  "text": "震惊！这张图片证明 人 被隐藏在 长凳 和 停车标志 的人群中！",
+  "image": "imgs/train_0049.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "weibo-train-50",
+  "text": "今日事件中，汽车 与 时钟 被一同拍到，图片属实。",
+  "image": "imgs/train_0050.jpg",
+  "label": 0,
+  "objects": [
+   "car",
+   "clock"
+  ]
+ },
+ {
+  "id": "weibo-train-51",
+  "text": "紧急：汽车 被拍到正在破坏 电视机，而 红绿灯 在旁边看着。",
+  "image": "imgs/train_0051.jpg",
+  "label": 1,
+  "objects": [
+   "tv",
+   "stop sign",
+   "traffic light"
+  ]
+ },
+ {
+  "id": "weibo-train-52",
+  "text": "目击者发布了这张 自行车 与 卡车 相隔的图片，来源可靠。",
+  "image": "imgs/train_0052.jpg",
+  "label": 0,
+  "objects": [
+   "bicycle",
+   "truck"
+  ]
+ },
+ {
+  "id": "weibo-train-53",
+  "text": "紧急：摩托车 被拍到正在破坏 自行车，而 消防栓 在旁边看着。",
+  "image": "imgs/train_0053.jpg",
+  "label": 1,
+  "objects": [
+   "bicycle",
+   "airplane",
+   "fire hydrant"
+  ]
+ },
+ {
+  "id": "weibo-train-54",
+  "text": "本地媒体报道：摩托车 在 卡车 附近出现，现场图片真实。",
+  "image": "imgs/train_0054.jpg",
+  "label": 0,
+  "objects": [
+   "motorcycle",
+   "truck"
+  ]
+ },
+ {
+  "id": "weibo-train-55",
+  "text": "目击者发布了这张 tv monitor 与 停车标志 相隔的图片，来源可靠。",
+  "image": "imgs/train_0055.jpg",
+  "label": 0,
+  "objects": [
+   "tv monitor",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "weibo-train-56",
+  "text": "网传视频称 汽车 袭击了 长凳 旁边的人，没有消息来源。",
+  "image": "imgs/train_0056.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "weibo-train-57",
+  "text": "震惊！这张图片证明 停车标志 被隐藏在 笔记本电脑 和 时钟 的人群中！",
+  "image": "imgs/train_0057.jpg",
+  "label": 1,
+  "objects": [
+   "laptop",
+   "clock"
+  ]
+ },
+ {
+  "id": "weibo-train-58",
+  "text": "震惊！这张图片证明 摩托车 被隐藏在 长凳 和 椅子 的人群中！",
+  "image": "imgs/train_0058.jpg",
+  "label": 1,
+  "objects": [
+   "bench",
+   "chair"
+  ]
+ },
+ {
+  "id": "weibo-train-59",
+  "text": "本地媒体报道：椅子 在 公共汽车 附近出现，现场图片真实。",
+  "image": "imgs/train_0059.jpg",
+  "label": 0,
+  "objects": [
+   "chair",
+   "car",
+   "bus"
+  ]
+ }
+]

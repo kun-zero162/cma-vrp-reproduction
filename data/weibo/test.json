@@ -1,0 +1,170 @@
+[
+ {
+  "id": "weibo-test-0",
+  "text": "现场拍照显示 餐桌 和 红绿灯 出现在事发地，消息已得到证实。",
+  "image": "imgs/test_0000.jpg",
+  "label": 0,
+  "objects": [
+   "dining table",
+   "laptop",
+   "traffic light"
+  ]
+ },
+ {
+  "id": "weibo-test-1",
+  "text": "紧急：长凳 被拍到正在破坏 火车，而 电视机 在旁边看着。",
+  "image": "imgs/test_0001.jpg",
+  "label": 1,
+  "objects": [
+   "train",
+   "tv"
+  ]
+ },
+ {
+  "id": "weibo-test-2",
+  "text": "本地媒体报道：飞机 在 公共汽车 附近出现，现场图片真实。",
+  "image": "imgs/test_0002.jpg",
+  "label": 0,
+  "objects": [
+   "airplane",
+   "bus"
+  ]
+ },
+ {
+  "id": "weibo-test-3",
+  "text": "现场拍照显示 餐桌 和 停车标志 出现在事发地，消息已得到证实。",
+  "image": "imgs/test_0003.jpg",
+  "label": 0,
+  "objects": [
+   "dining table",
+   "stop sign"
+  ]
+ },
+ {
+  "id": "weibo-test-4",
+  "text": "现场拍照显示 飞机 和 摩托车 出现在事发地，消息已得到证实。",
+  "image": "imgs/test_0004.jpg",
+  "label": 0,
+  "objects": [
+   "airplane",
+   "bench",
+   "motorcycle"
+  ]
+ },
+ {
+  "id": "weibo-test-5",
+  "text": "本地媒体报道：床 在 笔记本电脑 附近出现，现场图片真实。",
+  "image": "imgs/test_0005.jpg",
+  "label": 0,
+  "objects": [
+   "bed",
+   "bus",
+   "laptop"
+  ]
+ },
+ {
+  "id": "weibo-test-6",
+  "text": "今日事件中，船 与 笔记本电脑 被一同拍到，图片属实。",
+  "image": "imgs/test_0006.jpg",
+  "label": 0,
+  "objects": [
+   "boat",
+   "laptop"
+  ]
+ },
+ {
+  "id": "weibo-test-7",
+  "text": "今日事件中，tv monitor 与 椅子 被一同拍到，图片属实。",
+  "image": "imgs/test_0007.jpg",
+  "label": 0,
+  "objects": [
+   "tv monitor",
+   "chair"
+  ]
+ },
+ {
+  "id": "weibo-test-8",
+  "text": "网传视频称 tv monitor 袭击了 飞机 旁边的人，没有消息来源。",
+  "image": "imgs/test_0008.jpg",
+  "label": 1,
+  "objects": [
+   "airplane",
+   "train",
+   "car"
+  ]
+ },
+ {
+  "id": "weibo-test-9",
+  "text": "本地媒体报道：笔记本电脑 在 自行车 附近出现，现场图片真实。",
+  "image": "imgs/test_0009.jpg",
+  "label": 0,
+  "objects": [
+   "laptop",
+   "bicycle"
+  ]
+ },
+ {
+  "id": "weibo-test-10",
+  "text": "震惊！这张图片证明 火车 被隐藏在 停车标志 和 床 的人群中！",
+  "image": "imgs/test_0010.jpg",
+  "label": 1,
+  "objects": [
+   "stop sign",
+   "bed"
+  ]
+ },
+ {
+  "id": "weibo-test-11",
+  "text": "紧急：红绿灯 被拍到正在破坏 盆栽，而 飞机 在旁边看着。",
+  "image": "imgs/test_0011.jpg",
+  "label": 1,
+  "objects": [
+   "potted plant",
+   "motorcycle",
+   "airplane"
+  ]
+ },
+ {
+  "id": "weibo-test-12",
+  "text": "本地媒体报道：盆栽 在 火车 附近出现，现场图片真实。",
+  "image": "imgs/test_0012.jpg",
+  "label": 0,
+  "objects": [
+   "potted plant",
+   "dining table",
+   "train"
+  ]
+ },
+ {
+  "id": "weibo-test-13",
+  "text": "今日事件中，长凳 与 时钟 被一同拍到，图片属实。",
+  "image": "imgs/test_0013.jpg",
+  "label": 0,
+  "objects": [
+   "bench",
+   "clock"
+  ]
+ },
+ {
+  "id": "weibo-test-14",
+  "text": "网传视频称 床 袭击了 椅子 旁边的人，没有消息来源。",
+  "image": "imgs/test_0014.jpg",
+  "label": 1,
+  "objects": [
+   "chair",
+   "laptop",
+   "clock"
+  ]
+ },
+ {
+  "id": "weibo-test-15",
+  "text": "震惊！这张图片证明 停车标志 被隐藏在 摩托车 和 公共汽车 的人群中！",
+  "image": "imgs/test_0015.jpg",
+  "label": 1,
+  "objects": [
+   "motorcycle",
+   "bench",
+   "bus"
+  ]
+ }
+]
